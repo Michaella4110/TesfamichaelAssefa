@@ -14,7 +14,7 @@ Code speaks louder than promises. I write mine in Kotlin + Java.
 -  Designing app architecture that scales
 -  Turning your idea into a working MVP  
 
-✨ What clients say:
+What clients say:
 > _"Tesfamichael doesn’t just code what you ask for — he builds what you actually need."_  
 
 📫 Let’s build something together:  
