@@ -9,10 +9,10 @@ Code speaks louder than promises. I write mine in Kotlin + Java.
 `Mastering Jetpack Compose for cleaner, faster, future-proof code.`  
 
 💬 You can talk to me about: 
-- 🚀 Android development — from zero to Play Store
-- 🔧 Git & clean workflows
-- 🧠 Designing app architecture that scales
-- 🤝 Turning your idea into a working MVP  
+-  Android development — from zero to Play Store
+-  Git & clean workflows
+-  Designing app architecture that scales
+-  Turning your idea into a working MVP  
 
 ✨ What clients say:
 > _"Tesfamichael doesn’t just code what you ask for — he builds what you actually need."_  
@@ -23,5 +23,5 @@ Code speaks louder than promises. I write mine in Kotlin + Java.
 🌐 Or visit:
 [Wait.com](https://wait.com) 
 
-⚡ Fun fact:
+Fun fact:
 Some people write code. I design solutions disguised as apps.  
