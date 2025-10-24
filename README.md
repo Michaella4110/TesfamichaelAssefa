@@ -1,14 +1,14 @@
-# 👋 Welcome to Tesfamichael’s Space
+# Welcome to Tesfamichael’s Space
 
-🛠 What I do:  
+What I do:  
 I don’t just build Android apps — I create experiences that fit in your user’s pocket and stay in their heart.  
 Code speaks louder than promises. I write mine in Kotlin + Java.  
 
-⚡ Current Mission:  
+Current Mission:  
 `Transforming wireframes into working, reliable Android apps — with pixel-perfect UI and buttery-smooth UX.`  
 `Mastering Jetpack Compose for cleaner, faster, future-proof code.`  
 
-💬 You can talk to me about: 
+You can talk to me about: 
 -  Android development — from zero to Play Store
 -  Git & clean workflows
 -  Designing app architecture that scales
